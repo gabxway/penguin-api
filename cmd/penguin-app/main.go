@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com:gabxway/penguin-api.git/pkg/handlers"
+	"github.com/gabxway/penguin-api/pkg/handlers"
 )
 
 func main() {
